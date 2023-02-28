@@ -1,0 +1,1 @@
+Stilare una lista della spesa ma usando il ciclo while al posto del ciclo for
